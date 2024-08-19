@@ -1,0 +1,52 @@
+{
+  "movies":[
+  {
+     "userId": 1,
+     "id": 1,
+     "title": "Die another Day",
+     "completed": false
+   },
+   {
+     "userId": 1,
+     "id": 2,
+     "title": "A few good men",
+     "completed": false
+   },
+   {
+     "userId": 1,
+     "id": 3,
+     "title": "Jurrasic World",
+     "completed": false
+   },
+   {
+     "userId": 1,
+     "id": 4,
+     "title": "Star Wars",
+     "completed": true
+   },
+   {
+     "userId": 1,
+     "id": 5,
+     "title": "Predator",
+     "completed": false
+   },
+   {
+     "userId": 1,
+     "id": 6,
+     "title": "Avatar",
+     "completed": false
+   },
+   {
+     "userId": 1,
+     "id": 7,
+     "title": "Avengers: Endgame",
+     "completed": false
+   },
+   {
+     "userId": 1,
+     "id": 8,
+     "title": "Harry Potter and the Sorcerer's Stone",
+     "completed": true
+   }
+   ]
+  }
